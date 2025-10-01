@@ -13,8 +13,4 @@ I hold a general scientific baccalaureate and am currently in my second year of 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,python,java,git,react,blender,vscode&theme=light)](https://skillicons.dev)
 
-## Interest:
-
-💻 Interested in software development, web, and cybersecurity  
-
 
